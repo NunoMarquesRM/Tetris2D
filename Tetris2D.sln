@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tetris2D", "Tetris2D.vcxproj", "{4967B6B8-8374-4992-B58C-2BA42F1BDD2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4967B6B8-8374-4992-B58C-2BA42F1BDD2F}.Debug|x64.ActiveCfg = Debug|x64
+		{4967B6B8-8374-4992-B58C-2BA42F1BDD2F}.Debug|x64.Build.0 = Debug|x64
+		{4967B6B8-8374-4992-B58C-2BA42F1BDD2F}.Debug|x86.ActiveCfg = Debug|Win32
+		{4967B6B8-8374-4992-B58C-2BA42F1BDD2F}.Debug|x86.Build.0 = Debug|Win32
+		{4967B6B8-8374-4992-B58C-2BA42F1BDD2F}.Release|x64.ActiveCfg = Release|x64
+		{4967B6B8-8374-4992-B58C-2BA42F1BDD2F}.Release|x64.Build.0 = Release|x64
+		{4967B6B8-8374-4992-B58C-2BA42F1BDD2F}.Release|x86.ActiveCfg = Release|Win32
+		{4967B6B8-8374-4992-B58C-2BA42F1BDD2F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A64D3B1F-7203-4C63-9C0E-7115891A91DD}
+	EndGlobalSection
+EndGlobal
