@@ -1,2 +1,2 @@
 # Tetris2D
- Course unit: Computer Graphics - Tetris 2D
+The goal of this project is to replicate the Tetris game, in 2D, using OpenGL3.0
